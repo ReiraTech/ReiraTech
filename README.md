@@ -57,7 +57,7 @@
 ### 🐍 **My GitHub Garden & Contributions**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1ZXBqa2dmeHFscTZrdzV3ejB1azc2dTBiaDR2ZnNybWZicDk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="80px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1ZXBqa2dmeHFscTZrdzV3ejB1azc2dTBiaDR2ZnNybWZicDk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="160px" style="max-width:100%; height:auto;" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Contributions-Growing_Every_Day_🌱-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
 </div>
