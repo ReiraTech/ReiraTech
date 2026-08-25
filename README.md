@@ -19,16 +19,20 @@
 
 ---
 
-### 🌷 **My Little Coding Journey**
+### 🌷 **My Coding Journey**
 
-<div align="center">
-
-> 🌱 `Learning` ➔ 💻 `Coding` ➔ 🐛 `Bugs!` ➔ 😭 `Why???` ➔ 🔍 `Debugging` ➔ ✨ `IT WORKS!` ➔ 🚀 `Repeat`
+| Level | Phase | Vibe |
+| :---: | :--- | :--- |
+| 🌸 **01** | `Learning` | Everything is magical & exciting ✨ |
+| 💻 **02** | `Coding` | Fueled by coffee & aesthetic playlists ☕ |
+| 🐛 **03** | `Debugging` | Wait, where did this bug come from?! 😅 |
+| ✨ **04** | `It Works!` | Best feeling in the entire world! 🎉 |
+| 🚀 **05** | `Repeat` | Building bigger & prettier projects 💖 |
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hybTBrZnByOGU5dHJzYmltNm8zbTBzaXhhcmw1a2Zod28ybXlzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1FJH5qx8a2lcw1oB5/giphy.gif" width="200px"/>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hybTBrZnByOGU5dHJzYmltNm8zbTBzaXhhcmw1a2Zod28ybXlzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1FJH5qx8a2lcw1oB5/giphy.gif" width="200px"/>
 </div>
 
 ---
@@ -50,20 +54,27 @@
 
 ---
 
-### 🐍 **My GitHub Garden**
+### 🐍 **My GitHub Garden & Contributions**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaghayegh1383&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1ZXBqa2dmeHFscTZrdzV3ejB1azc2dTBiaDR2ZnNybWZicDk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="80px"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Contributions-Growing_Every_Day_🌱-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ---
 
 ### 📊 **A Little Bit of Stats**
 
+<div align="center">
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaghayegh1383&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaghayegh1383&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6c1" width="48%" />
+  <img src="https://img.shields.io/badge/Main_Focus-Python_&_Django-ffc0cb?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Status-100%25_Cute_%26_Clean-d8bfd8?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee_Level-100%25-b0e0e6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
