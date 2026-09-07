@@ -1,93 +1,147 @@
-<div align="center">
+# 👋 Hi, I'm Shaghayegh
 
-# 🌸 ✨ Hey, I'm Reira! ✨ 🌸
+### Computer Engineering Student · Python & Web Development
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1ZXBqa2dmeHFscTZrdzV3ejB1azc2dTBiaDR2ZnNybWZicDk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="280px"/>
+I'm a Computer Engineering student interested in software development, backend technologies, and learning how real-world applications are built.
 
-### 🎀 Creating my own little tech world — ReiraTech 🎀
-
----
-
-</div>
-
-### 🦋 **About Me**
-
-- 💻 **Computer Engineering Student**
-- 🌱 **Currently learning & building**
-- 🐍 **Python & Django enjoyer**
-- ☕ **Powered by coffee and curiosity**
+I enjoy turning what I learn into small projects and continuously improving my programming skills. 🌱
 
 ---
 
-### 🌷 **My Coding Journey**
+## 🚀 Featured Project
 
-| Level | Phase | Vibe |
-| :---: | :--- | :--- |
-| 🌸 **01** | `Learning` | Everything is magical & exciting ✨ |
-| 💻 **02** | `Coding` | Fueled by coffee & aesthetic playlists ☕ |
-| 🐛 **03** | `Debugging` | Wait, where did this bug come from?! 😅 |
-| ✨ **04** | `It Works!` | Best feeling in the entire world! 🎉 |
-| 🚀 **05** | `Repeat` | Building bigger & prettier projects 💖 |
+### 🐍 CS50 AI Projects
 
-<br/>
+A collection of projects developed while learning Artificial Intelligence concepts through Harvard's CS50 AI course.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hybTBrZnByOGU5dHJzYmltNm8zbTBzaXhhcmw1a2Zod28ybXlzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1FJH5qx8a2lcw1oB5/giphy.gif" width="200px"/>
-</div>
+**Focus:** Python · AI · Algorithms · Problem Solving
+
+🔗 [View Repository](https://github.com/ReiraTech/Cs50ai-projects)
 
 ---
 
-### 💜 **Tech I Play With**
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### Programming Languages
 
-- 🎀 **Currently:** Learning new things
-- 💻 **Building:** Projects
-- 📚 **Improving:** My programming skills
-- ✨ **Goal:** Trying to become a better developer every day
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
----
+### Backend & Databases
 
-### 🐍 **My GitHub Garden & Contributions**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1ZXBqa2dmeHFscTZrdzV3ejB1azc2dTBiaDR2ZnNybWZicDk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="160px" style="max-width:100%; height:auto;" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Contributions-Growing_Every_Day_🌱-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 ---
 
-### 📊 **A Little Bit of Stats**
+## 💻 Projects
 
-<div align="center">
+### 🔹 Web Scraping
+
+Learning and experimenting with web scraping, data extraction and working with Python tools.
+
+🔗 [WebScraping-TL](https://github.com/ReiraTech/WebScraping-TL)
+
+### 🔹 Python Projects
+
+A collection of Python exercises and projects created while improving my programming fundamentals.
+
+🔗 [PythonTopL](https://github.com/ReiraTech/PythonTopL)
+
+### 🔹 To-Do List
+
+A simple web project created as part of my learning journey.
+
+🔗 [ToDoList](https://github.com/ReiraTech/ToDoList)
+
+### 🔹 CS50 AI
+
+Projects and exercises related to Artificial Intelligence and problem solving.
+
+🔗 [AI-CS50](https://github.com/ReiraTech/AI-CS50)
+
+---
+
+## 📚 Currently Learning
+
+* 🐍 Improving my Python fundamentals
+* 🌐 Backend development with Django
+* 🗄️ SQL & database concepts
+* 🐳 Docker and development environments
+* 🔧 Git & GitHub workflows
+* 🧠 Algorithms and problem solving
+* ☁️ Exploring DevOps concepts
+
+---
+
+## 🎯 My Development Journey
+
+```text
+Learning
+   ↓
+Building
+   ↓
+Breaking things 😅
+   ↓
+Debugging
+   ↓
+Understanding
+   ↓
+Building better
+   ↓
+Repeat 🔁
+```
+
+I believe that becoming a developer is not about knowing everything.
+
+It's about being curious, learning consistently, solving problems, and not being afraid of things you don't know yet. 🌱
+
+---
+
+## 🧠 Areas I'm Interested In
+
+`Software Development` · `Backend Development` · `Python`
+
+`Databases` · `Web Development` · `Algorithms`
+
+`DevOps` · `Automation` · `Artificial Intelligence`
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Focus-Python_&_Django-ffc0cb?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Status-100%25_Cute_%26_Clean-d8bfd8?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coffee_Level-100%25-b0e0e6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReiraTech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReiraTech&layout=compact&hide_border=true" height="165">
 </p>
-
-</div>
 
 ---
 
-<div align="center">
+## 🔗 Connect With Me
 
-### 💌 **Thanks for stopping by!**
+<p align="left">
+  <a href="https://github.com/ReiraTech">
+    <img src="https://img.shields.io/badge/GitHub-ReiraTech-181717?style=flat-square&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/shaghayegh-sadat-mousavi-826814294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaghayegh%20Mousavi-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-> *Keep coding. Keep growing. Keep creating.* 🌸
+---
 
-<br/>
+<p align="center">
+  <i>Building, learning, and improving — one project at a time. 🌱</i>
+</p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlhcHF3ejc4YjUycnhwc3QzbXRhYTZ0YWtrMmZhbGttZnRrdGN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="140px"/>
-
-**💜 ReiraTech**
-
-</div>
+<p align="center">
+  ✨ <b>ReiraTech</b> ✨
+</p>
